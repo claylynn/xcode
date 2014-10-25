@@ -18,6 +18,7 @@
     [self.window makeKeyAndVisible];
     return YES;
     //123
+    //hello
 }
 
 - (void)applicationWillResignActive:(UIApplication *)application
